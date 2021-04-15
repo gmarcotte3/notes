@@ -6,9 +6,6 @@ I not sure but I think Microsoft office can open these odt
 files?
 
 
-## BlockChain
-CrytptoCurrencies_101
-
-
-## computer programming general
-React
+## directories
+G3-CryptoCurrencies
+G3-Computer-Notes
